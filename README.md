@@ -325,7 +325,7 @@ GitHub:
 https://github.com/opaulodev7
 
 Email:
-seuemail@email.com
+paulo-filho2011@hotmail.com
 
 WhatsApp:
 https://wa.me/5581993981009
