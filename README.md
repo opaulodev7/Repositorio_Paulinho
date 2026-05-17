@@ -181,7 +181,7 @@ Incluindo:
 Projetos fictícios desenvolvidos para demonstração técnica:
 
 | Projeto | Tecnologias |
-|---|---|
+|---------|-------------|
 | Sistema Financeiro | HTML, CSS, JS |
 | Cadastro de Clientes | Flask, Python, MySQL |
 | Dashboard Administrativo | HTML, CSS, JS |
