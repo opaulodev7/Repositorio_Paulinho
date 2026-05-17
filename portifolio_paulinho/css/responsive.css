@@ -1,0 +1,53 @@
+/* TABLET */
+@media(max-width: 992px) {
+
+    .hero h1 {
+        font-size: 45px;
+    }
+
+    .contact-content {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+/* MOBILE */
+@media(max-width: 768px) {
+
+    .menu-toggle {
+        display: block;
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+    .nav-links {
+        position: absolute;
+
+        top: 80px;
+        right: -100%;
+
+        width: 250px;
+        height: 100vh;
+
+        background: #0f172a;
+
+        flex-direction: column;
+
+        padding: 40px 20px;
+
+        transition: .4s;
+    }
+
+    .nav-links.active {
+        right: 0;
+    }
+
+    .hero h1 {
+        font-size: 38px;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+    }
+
+}
